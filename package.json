@@ -1,11 +1,11 @@
 {
-  "name": "tufu",
-  "version": "0.1.1",
+  "name": "tufu-fix",
+  "version": "0.1.2",
   "description": "A pure javascript image processing tool",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shaozilee/tufu"
+    "url": "https://github.com/tlightsky/tufu"
   },
   "keywords": [
     "tufu",
